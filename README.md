@@ -1,2 +1,3 @@
 # movies-review
-i have use html css javascript
+i have used html css javascript and bootstrap 
+
